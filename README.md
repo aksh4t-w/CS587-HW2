@@ -2,7 +2,7 @@
 
 ## University of Illinois at Chicago
 
-This project runs an application on Ethos VM in written Golang where clients make RPC calls to the server to perform banking transactions.
+This project runs an application written in Golang on Ethos VM where clients make RPC calls to the server to perform banking transactions.
 
 ## Instructions to run the project.
 
