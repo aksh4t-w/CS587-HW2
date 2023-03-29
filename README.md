@@ -2,6 +2,8 @@
 
 ## University of Illinois at Chicago
 
+This project runs an application on Ethos VM in written Golang where clients make RPC calls to the server to perform banking transactions.
+
 ## Instructions to run the project.
 
 ### To start the server:
@@ -29,11 +31,9 @@ This will start the banking server instance on ethos.
 
 - In another terminal(s) ssh and cd into the same client folder with different users.
 - Then run the following command to run the ethos VM terminal:
-
 `etAl client.ethos`
 
-In the new terminal, run:
-
+- In the new terminal, run:
 `bankingClient`
 
 This will then execute the bankingClient code which will make calls to the bankingServer.
